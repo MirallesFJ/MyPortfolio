@@ -21,7 +21,7 @@ export default function Home() {
         >
           <Header />
           <h1 className="text-lg sm:text-xl font-semibold text-center mb-4 my-4 font-italic">
-            Note: This website is still in development...
+            Note: This website is still in development... 🚧
           </h1>
 
           {/* Projects Section */}
