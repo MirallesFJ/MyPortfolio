@@ -29,7 +29,7 @@ export default function Header() {
           Hi, I'm Jorge, an experienced software engineer with a strong academic
           foundation, holding a master’s degree in Computational Mechanics,
           where I specialized in Applied Mathematics, Numerical Methods,
-          Software Development, and Computational Modeling & Simulation.
+          Computational Modeling & Simulation and Software Development.
         </p>
 
         <p className="mt-4">
