@@ -26,9 +26,23 @@ export default function Header() {
       {/* Introduction Section */}
       <div className="mt-6 text-base sm:text-lg leading-relaxed max-w-3xl mx-auto p-4 sm:p-8">
         <p>
-          Hi, I'm Jorge, a software engineer with a master's degree in
-          computational mechanics, focusing on applied mathematics, software
-          development, and reinforcement learning.
+          Hi, I'm Jorge, a software engineer with a master’s degree in
+          Computational Mechanics, where I developed a strong foundation in
+          Applied Mathematics, Numerical Methods, Computational Modeling &
+          Simulation, and Software Development.
+        </p>
+        <p>
+          My experience spans developing front-end and back-end systems,
+          including building scalable web applications using Angular, Node.js,
+          PostgreSQL, and InfluxDB. I have worked on projects that range from
+          creating human-machine interfaces (HMI) for industrial automation to
+          conducting R&D in AI-driven robotics.
+        </p>
+        <p>
+          Now, I am focused on applying my mathematical and programming
+          expertise to quantitative finance, algorithmic trading, fintech and
+          web technologies. where I aim to contribute by developing robust,
+          high-performance models and software solutions.
         </p>
         <p className="mt-4">
           I have experience in PLC software development, contributing to
