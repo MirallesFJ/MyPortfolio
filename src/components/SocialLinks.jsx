@@ -40,14 +40,14 @@ export default function SocialLinks() {
       </a>
 
       {/* GitHub Link */}
-      <a
+      {/* <a
         href="https://github.com/MirallesFJ"
         className="bg-gray-800 hover:bg-red-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
         style={{ maxWidth: '150px' }}
       >
         <FontAwesomeIcon icon={faGithub} className="text-lg" />
         <span className="ml-1">GitHub</span>
-      </a>
+      </a> */}
     </div>
   );
 }
