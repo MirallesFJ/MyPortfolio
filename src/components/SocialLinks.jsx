@@ -29,7 +29,7 @@ export default function SocialLinks() {
 
       {/* CV Link */}
       <a
-        href="/CV-2024-WebDev-ENG.pdf"
+        href="/CV-2024-09-GEN-ENG.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-gray-800 hover:bg-gray-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
