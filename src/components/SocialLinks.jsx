@@ -27,16 +27,28 @@ export default function SocialLinks() {
         <span className="ml-1">Contact</span>
       </a>
 
-      {/* CV Link */}
+      {/* CV Link-ENG */}
       <a
-        href="/CV-2024-09-GEN-ENG.pdf"
+        href="/CV-2024-ENG.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-gray-800 hover:bg-gray-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
         style={{ maxWidth: '150px' }}
       >
         <FontAwesomeIcon icon={faFile} className="text-lg" />
-        <span className="ml-1">CV</span>
+        <span className="ml-1">CV-ENG</span>
+      </a>
+
+      {/* CV Link-DE */}
+      <a
+        href="/CV-2024-DE.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="bg-gray-800 hover:bg-gray-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
+        style={{ maxWidth: '150px' }}
+      >
+        <FontAwesomeIcon icon={faFile} className="text-lg" />
+        <span className="ml-1">CV-DE</span>
       </a>
 
       {/* GitHub Link */}
