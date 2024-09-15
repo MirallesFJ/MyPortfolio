@@ -36,7 +36,7 @@ export default function SocialLinks() {
         style={{ maxWidth: '150px' }}
       >
         <FontAwesomeIcon icon={faFile} className="text-lg" />
-        <span className="ml-1">CV-ENG</span>
+        <span className="ml-1">CV-English</span>
       </a>
 
       {/* CV Link-DE */}
@@ -48,7 +48,7 @@ export default function SocialLinks() {
         style={{ maxWidth: '150px' }}
       >
         <FontAwesomeIcon icon={faFile} className="text-lg" />
-        <span className="ml-1">CV-DE</span>
+        <span className="ml-1">CV-Deutsch</span>
       </a>
 
       {/* GitHub Link */}
