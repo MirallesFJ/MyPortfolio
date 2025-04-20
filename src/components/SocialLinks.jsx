@@ -29,7 +29,7 @@ export default function SocialLinks() {
 
       {/* CV Link-ENG */}
       <a
-        href="/CV-2024-ENG.pdf"
+        href="/CV-FIN-2025-ENG-CH.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-gray-800 hover:bg-gray-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
@@ -41,7 +41,7 @@ export default function SocialLinks() {
 
       {/* CV Link-DE */}
       <a
-        href="/CV-2024-DE.pdf"
+        href="/CV-FIN-2025-DE-CH.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-gray-800 hover:bg-gray-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
