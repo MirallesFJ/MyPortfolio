@@ -18,7 +18,10 @@ export default function Header() {
             Jorge Miralles Filippini
           </h1>
           <h2 className="text-xl sm:text-2xl font-light mt-2">
-            MSc. Computational Mechanics
+            Software Engineer | MSc. in Computational Mechanics
+          </h2>
+          <h2 className="text-xl sm:text-2xl font-light mt-2">
+            Aspiring Quant Analyst
           </h2>
         </div>
       </div>
