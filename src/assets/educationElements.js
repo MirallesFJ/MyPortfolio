@@ -82,4 +82,4 @@ const educationElements = [
   },
 ];
 
-export default educationElements.reverse();
+export default educationElements;
