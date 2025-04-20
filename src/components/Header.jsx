@@ -26,17 +26,29 @@ export default function Header() {
       {/* Introduction Section */}
       <div className="mt-6 text-base sm:text-lg leading-relaxed max-w-3xl mx-auto p-4 sm:p-8">
         <p>
-          Hi, I'm Jorge, an experienced software engineer with a strong academic
-          foundation, holding a master’s degree in Computational Mechanics,
-          where I specialized in Applied Mathematics, Numerical Methods,
-          Computational Modeling & Simulation and Software Development.
+          Hi, I'm Jorge — a software engineer with a strong quantitative
+          background and a passion for solving analytical problems through code.
+          I hold a master’s degree in Computational Mechanics from the Technical
+          University of Munich, where I focused on applied mathematics,
+          numerical methods, and high-performance computing for simulation and
+          risk analysis.
         </p>
 
         <p className="mt-4">
-          Alongside my technical expertise, I have a solid background in
-          full-stack development, building scalable web applications and
-          back-end systems using technologies like Angular, Node.js, PostgreSQL,
-          and InfluxDB.
+          My professional experience spans fullstack development, industrial
+          automation, and R&D in reinforcement learning for robotics. I've built
+          real-world systems using technologies like .NET, C#, Angular, Node.js,
+          and PostgreSQL — while applying structured, test-driven approaches in
+          agile environments.
+        </p>
+
+        <p className="mt-4">
+          I'm currently pursuing a Master’s in Quantitative Finance, deepening
+          my expertise in financial econometrics, derivatives, and risk
+          modeling. My goal is to bridge the gap between engineering and
+          finance, bringing together strong technical skills and a sharp
+          analytical mindset to tackle complex problems in modern financial
+          markets.
         </p>
       </div>
 

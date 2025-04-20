@@ -107,4 +107,4 @@ const experienceElements = [
   },
 ];
 
-export default experienceElements.reverse();
+export default experienceElements;
