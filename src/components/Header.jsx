@@ -6,11 +6,11 @@ export default function Header() {
       {/* Profile Section */}
       <div className="flex flex-col sm:flex-row items-center">
         {/* Profile Photo */}
-        <img
+        {/* <img
           src="/my-photo.png"
           alt="Jorge's photo"
           className="w-24 h-24 sm:w-32 sm:h-32 rounded-full object-cover shadow-lg sm:mr-8 mb-6 sm:mb-0"
-        />
+        /> */}
 
         {/* Heading and Subtitle */}
         <div className="text-center sm:text-left">
