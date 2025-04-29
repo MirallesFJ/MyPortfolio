@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="mt-10 px-4 sm:px-6 lg:px-8">
       {/* Profile Section */}
-      <div className="flex flex-col sm:flex-row items-center">
+      <div className="flex flex-col sm:flex-row items-center justify-center text-center">
         {/* Profile Photo */}
         {/* <img
           src="/my-photo.png"
@@ -13,7 +13,7 @@ export default function Header() {
         /> */}
 
         {/* Heading and Subtitle */}
-        <div className="text-center sm:text-left">
+        <div className="flex flex-col items-center justify-center text-center h-full">
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
             Jorge Miralles Filippini
           </h1>
