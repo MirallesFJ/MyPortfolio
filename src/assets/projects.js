@@ -1,25 +1,5 @@
 const projects = [
   {
-    id: 0,
-    title: 'PLC Software Development for Industrial Automation',
-    descriptionShort:
-      'Developed PLC software for a fully automated production unit using TwinCAT3 and TwinCAT-HMI.',
-    description:
-      'Designed and implemented the software for a fully automated industrial production station using TwinCAT3 and TwinCAT-HMI. Covered the entire development cycle — from early prototyping and simulation to production deployment. This was a highly interdisciplinary project combining software, electrical, pneumatic, and mechanical engineering. I led the full software effort, including simulation testing and system integration.',
-    imagePreview: '/twincat.jpg',
-    images: '/twincat.jpg',
-    tech: [
-      'TwinCAT',
-      'TwinCAT-HMI',
-      'Industrial Physics',
-      'PLC',
-      'Simulation',
-      'GitLab',
-      'Agile',
-      'Scrum',
-    ],
-  },
-  {
     id: 1,
     title: 'Books Web App',
     descriptionShort:
@@ -65,31 +45,13 @@ const projects = [
       'Solidworks',
     ],
   },
-  // {
-  //   id: 4,
-  //   title: 'Backend Framework for Industrial Automation (.NET)',
-  //   descriptionShort:
-  //     'Designed and implemented core backend features for an industrial control system using C# and .NET 8.',
-  //   description:
-  //     'Contributed to the development of backend software for an industrial automation system, with focus on control logic, system coordination, and hardware integration. The project required close collaboration with hardware and system engineers, modular architecture, and rigorous testing practices.',
-  //   imagePreview: '/automation-net.png',
-  //   images: ['/automation-net-diagram.png'],
-  //   tech: [
-  //     'C#',
-  //     '.NET 8',
-  //     'Microservices',
-  //     'OOP',
-  //     'Integration Testing',
-  //     'Software Architecture',
-  //   ],
-  // },
   {
     id: 5,
-    title: 'Quantitative Finance Projects (Work in Progress)',
+    title: 'Quantitative Finance Projects',
     descriptionShort:
-      'Models developed during my Quantitative Finance Master: econometrics, risk modeling, derivatives, and portfolio optimization.',
+      'Ongoing Quantitative Finance personal projects: https://github.com/MirallesFJ/QF-Portfolio',
     description:
-      'Ongoing set of projects developed as part of my Master in Quantitative Finance. Current work includes financial time series modeling, volatility forecasting, portfolio optimization algorithms, and valuation of derivatives using statistical and computational tools. More content coming soon as coursework and research evolve.',
+      'Ongoing set of projects developed: https://github.com/MirallesFJ/QF-Portfolio',
     imagePreview: '/montecarlo.png',
     images: ['/montecarlo.png'],
     tech: [

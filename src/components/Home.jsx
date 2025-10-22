@@ -20,9 +20,6 @@ export default function Home() {
           className="flex flex-col items-center justify-center min-h-screen mx-auto max-w-5xl p-8"
         >
           <Header />
-          <h1 className="text-lg sm:text-xl font-semibold text-center mb-4 my-4 font-italic">
-            Note: This website is still in development... 🚧
-          </h1>
 
           {/* Projects Section */}
           <div

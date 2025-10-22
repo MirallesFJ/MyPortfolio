@@ -18,10 +18,7 @@ export default function Header() {
             Jorge Miralles Filippini
           </h1>
           <h2 className="text-xl sm:text-2xl font-light mt-2">
-            Software Engineer | MSc. in Computational Mechanics
-          </h2>
-          <h2 className="text-xl sm:text-2xl font-light mt-2">
-            Aspiring Quant Analyst
+            Quantitative Finance | MSc. in Computational Mechanics
           </h2>
         </div>
       </div>
@@ -29,29 +26,18 @@ export default function Header() {
       {/* Introduction Section */}
       <div className="mt-6 text-base sm:text-lg leading-relaxed max-w-3xl mx-auto p-4 sm:p-8">
         <p>
-          Hi, I'm Jorge — a software engineer with a strong quantitative
-          background and a passion for solving analytical problems through code.
-          I hold a master’s degree in Computational Mechanics from the Technical
-          University of Munich, where I focused on applied mathematics,
-          numerical methods, and high-performance computing for simulation and
-          risk analysis.
+          Quantitative engineer with a background in <strong>applied mathematics</strong>,
+          <strong> risk modelling</strong>, and <strong>computational finance</strong>.
+          I combine experience in <strong>software engineering</strong> and
+          <strong> mathematical modelling</strong> to build data-driven tools for
+          pricing, volatility, and portfolio risk analysis.
         </p>
 
         <p className="mt-4">
-          My professional experience spans fullstack development, industrial
-          automation, and R&D in reinforcement learning for robotics. I've built
-          real-world systems using technologies like .NET, C#, Angular, Node.js,
-          and PostgreSQL — while applying structured, test-driven approaches in
-          agile environments.
-        </p>
-
-        <p className="mt-4">
-          I'm currently pursuing a Master’s in Quantitative Finance, deepening
-          my expertise in financial econometrics, derivatives, and risk
-          modeling. My goal is to bridge the gap between engineering and
-          finance, bringing together strong technical skills and a sharp
-          analytical mindset to tackle complex problems in modern financial
-          markets.
+          MSc in <strong>Computational Mechanics</strong> (TUM) and
+          Master’s in <strong>Quantitative Finance</strong> (UNED).
+          Skilled in <strong>Python, C#, Monte Carlo simulation, GARCH/EVT</strong>,
+          and <strong>numerical optimisation</strong>.
         </p>
       </div>
 
