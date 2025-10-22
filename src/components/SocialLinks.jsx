@@ -53,7 +53,7 @@ export default function SocialLinks() {
 
       {/* GitHub Link */}
       <a
-        href="https://github.com/MirallesFJ"
+        href="https://github.com/MirallesFJ/QF-Portfolio"
         className="bg-gray-800 hover:bg-red-500 text-white flex items-center px-2 py-2 rounded-md transition duration-200 ease-in-out"
         style={{ maxWidth: '150px' }}
       >
