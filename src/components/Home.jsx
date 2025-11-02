@@ -3,6 +3,7 @@ import Timelines from './Timeline/Timelines.jsx';
 import Navbar from './Navbar.jsx';
 import Footer from './Footer.jsx';
 import Projects from './Projects.jsx';
+import QuantProjects from './QuantProjc.jsx';
 
 export default function Home() {
   return (
@@ -20,6 +21,8 @@ export default function Home() {
           className="flex flex-col items-center justify-center min-h-screen mx-auto max-w-5xl p-8"
         >
           <Header />
+
+          <QuantProjects />
 
           {/* Projects Section */}
           <div

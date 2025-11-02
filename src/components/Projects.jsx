@@ -21,7 +21,7 @@ export default function Projects() {
     <div className="p-10 space-y-8">
       {' '}
       {/* Added spacing between sections */}
-      <h2 className="text-center text-3xl font-bold mb-6">My Projects</h2>
+      <h2 className="text-center text-3xl font-bold mb-6">Other Projects</h2>
       <Swiper
         modules={[Navigation, Pagination]}
         navigation

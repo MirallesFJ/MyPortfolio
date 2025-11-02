@@ -23,7 +23,8 @@ const experienceElements = [
   },
   {
     id: 6,
-    title: 'C++ Tutor — Technical University of Munich (Chair of Computational Mechanics)',
+    title:
+      'C++ Tutor — Technical University of Munich (Chair of Computational Mechanics)',
     location: 'Munich, Germany',
     description:
       'Taught object-oriented C++ to master’s students, focusing on algorithm design, numerical methods, and simulation programming. Supervised projects bridging mathematical modelling and efficient scientific computing.',
@@ -31,7 +32,12 @@ const experienceElements = [
     date: '2021–2022',
     icon: 'work',
     color: 'orange',
-    tech: ['C++', 'Numerical Methods', 'Scientific Computing', 'Algorithm Design'],
+    tech: [
+      'C++',
+      'Numerical Methods',
+      'Scientific Computing',
+      'Algorithm Design',
+    ],
   },
 ];
 

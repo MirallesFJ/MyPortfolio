@@ -45,26 +45,26 @@ const projects = [
       'Solidworks',
     ],
   },
-  {
-    id: 5,
-    title: 'Quantitative Finance Projects',
-    descriptionShort:
-      'Ongoing Quantitative Finance personal projects: https://github.com/MirallesFJ/QF-Portfolio',
-    description:
-      'Ongoing set of projects developed: https://github.com/MirallesFJ/QF-Portfolio',
-    imagePreview: '/montecarlo.png',
-    images: ['/montecarlo.png'],
-    tech: [
-      'Python',
-      'Financial Econometrics',
-      'Risk Modeling',
-      'Volatility Modeling',
-      'Portfolio Optimization',
-      'Monte Carlo Simulation',
-      'Derivatives',
-      'Time Series',
-    ],
-  },
+  // {
+  //   id: 5,
+  //   title: 'Quantitative Finance Projects',
+  //   descriptionShort:
+  //     'Ongoing quantitative finance personal projects: see Github link for more.',
+  //   description:
+  //     'Ongoing set of projects developed: see Github link for more.',
+  //   imagePreview: '/montecarlo.png',
+  //   images: ['/montecarlo.png'],
+  //   tech: [
+  //     'Python',
+  //     'Financial Econometrics',
+  //     'Risk Modeling',
+  //     'Volatility Modeling',
+  //     'Portfolio Optimization',
+  //     'Monte Carlo Simulation',
+  //     'Derivatives',
+  //     'Time Series',
+  //   ],
+  // },
 ];
 
 export default projects.reverse();
